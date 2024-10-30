@@ -1,0 +1,10 @@
+{
+    "name"       : "mdt/image-compositions",
+    "description": "Combine multiple images in your media library into a single image.",
+    "homepage"   : "https://wordpress.org/plugins/image-compositions/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "support"    : {
+        "forum": "https://wordpress.org/support/plugin/image-compositions"
+    }
+}
